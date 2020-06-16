@@ -1,0 +1,12 @@
+h1 {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#Kép1 {box-shadow: 0 0 3px blue;}
+html {background-image: url(Képek/Balaton.jpg);}
+#Cím {background-color: crimson;
+box-shadow: 0 0 0 10px black;}
+#Elérhetőségünk {padding-left: 50px;}
+#Étlap { padding-left: 100px;}
+#ExtraAjánlataink { padding-left: 150px;}
+#RendelésLeadása {padding-left: 200px;}
+#ElsőDiv {box-shadow: 10px 10px 10px;
+background-color: cornflowerblue;
+font-size: large;}
